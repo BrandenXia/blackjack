@@ -1,4 +1,8 @@
-# Usage
+# Blackjack Game
+
+A simple blackjack game.
+
+## Usage
 
 ```
 npm install
